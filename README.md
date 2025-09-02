@@ -1,1 +1,3 @@
-# Liangcheng_Sun
+# Liangcheng Sun
+
+# Senior in Computer Engineering @ UIUC
